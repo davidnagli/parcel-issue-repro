@@ -1,0 +1,9 @@
+{
+  "name": "977",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.7.2"
+  }
+}
