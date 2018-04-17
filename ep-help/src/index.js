@@ -1,3 +1,3 @@
-import formURI from './form/form.html'
+import abc from './form/form.html'
 
-console.log(formURI)
+console.log('abc',abc)
