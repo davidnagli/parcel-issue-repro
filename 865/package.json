@@ -1,0 +1,11 @@
+{
+  "name": "1692",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "author": "David Nagli",
+  "license": "MIT",
+  "private": false
+}
